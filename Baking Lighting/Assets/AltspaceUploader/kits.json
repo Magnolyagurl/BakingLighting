@@ -6,7 +6,13 @@
             "IsEnabled": true,
             "UploadItems": [
                 {
-                    "PrefabFilepath": "",
+                    "PrefabFilepath": "Assets/Prefabs/2030128702972494493_lighting_living_room/Living room model.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2030128702972494493_lighting_living_room/Reflection Probe.prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
